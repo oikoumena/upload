@@ -1,11 +1,13 @@
 # upload
 
-First setup `ENV` vars, second configure the video files in `upload.yaml`, third __upload__:
+1. Set up ENV vars (`env.bat`)
+2. Set up the video files (`upload.yaml`)
+3. **UPLOAD**
 
 WINDOWS
 
-env.bat & perl upload.pl
+`env.bat & perl upload.pl`
 
 GNU/LINUX
 
-source env.sh && perl upload.pl
+`source env.sh && perl upload.pl`

@@ -1,1 +1,2 @@
-setx FFMPEG "%USERPROFILE%\Desktop\ffmpeg\ffmpeg.exe"
+@echo off
+set FFMPEG="%USERPROFILE%\Desktop\ffmpeg\ffmpeg.exe"
