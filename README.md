@@ -6,8 +6,8 @@
 
     - WINDOWS
     
-      `env.bat & perl upload.pl`
+      % `env.bat & perl upload.pl`
     
     - GNU/LINUX
     
-      `source env.sh && perl upload.pl`
+      % `source env.sh && perl upload.pl`
