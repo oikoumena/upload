@@ -4,10 +4,10 @@
 2. Set up the video files (`upload.yaml`)
 3. **UPLOAD**
 
-WINDOWS
-
-`env.bat & perl upload.pl`
-
-GNU/LINUX
-
-`source env.sh && perl upload.pl`
+    *WINDOWS:*
+    
+    `env.bat & perl upload.pl`
+    
+    *GNU/LINUX:*
+    
+    `source env.sh && perl upload.pl`
