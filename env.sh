@@ -1,1 +1,1 @@
-FFMPEG=/usr/local/bin/ffmpeg
+export FFMPEG=/usr/local/bin/ffmpeg

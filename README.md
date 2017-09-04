@@ -6,7 +6,7 @@
 
     - WINDOWS
     
-      % `env.bat & perl upload.pl`
+      % `env.bat && perl upload.pl`
     
     - GNU/LINUX
     
